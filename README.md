@@ -13,10 +13,8 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://agnik7.github.io/interactive-rating-component-frontendmentor/)
+### Link
+- Live Site URL: [interactive-rating-component](https://agnik7.github.io/interactive-rating-component-frontendmentor/)
 
 ### Built with
 
